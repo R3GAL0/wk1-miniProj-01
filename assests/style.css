@@ -1,0 +1,21 @@
+*{
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tab{
+    margin-left: 40px;
+}
+
+#banner{
+    display: inline;
+    list-style-type: none;
+    font-size: 40px;
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+.footer{
+    background-color: yellow;
+}
