@@ -1,19 +1,30 @@
 *{
-    background-color: lightblue;
     font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
 }
 
 .tab{
     margin-left: 40px;
+    margin-top: 50px;
 }
 
-#banner{
-    display: inline;
-    list-style-type: none;
+body{
+    position: relative;
+    background-color: lightblue;
+}
+
+.header{
     font-size: 40px;
     position: fixed;
+    background-color: darkblue;
     top: 0;
-    width: 100%
+    width: 100%;
+}
+
+li{
+    display: inline;
+    list-style-type: none;
 }
 
 .footer{
